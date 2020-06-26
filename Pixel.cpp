@@ -12,7 +12,7 @@ void Pixel::SetType(int typ)
     this->typ = typ;
 
 } //end SetType()
-
+#this is a test
 
 void Pixel::AddVote(int vote)
 {
