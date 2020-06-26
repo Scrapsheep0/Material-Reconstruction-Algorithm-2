@@ -20,7 +20,8 @@
         Slice rndm;
         rndm.Initialize_Rand();
         cout << rndm;
-
+#this is a test
+        
         //The sample Slice object
         Slice sample;
         cout << "Initialize_Noise()" << endl;
